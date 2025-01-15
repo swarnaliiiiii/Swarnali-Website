@@ -7,7 +7,7 @@ const App = () => {
     <>
     <h1 className='text-3xl'>Hello World</h1>
     <div className='pt-[3.75rem] lg:pt-[5rem] overflow-hidden'>
-      <Button className="mt-10" href="#login">
+      <Button className="mt-10">
         Login
       </Button>
     </div>
