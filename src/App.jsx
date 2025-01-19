@@ -6,11 +6,11 @@ import Header from './components/Header'
 const App = () => {
   return (
     <>
-    {/* <h1 className='text-3xl'>Hello World</h1> */}
+    <h1 className='text-3xl'>Hello World</h1>
     <div className='pt-[3.75rem] lg:pt-[5rem] overflow-hidden'>
-      {/* <Button className="mt-10">
+      <Button className="mt-10">
         Login
-      </Button> */}
+      </Button>
       <Header />
     </div>
     <ButtonGradient />
