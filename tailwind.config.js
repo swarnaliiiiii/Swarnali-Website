@@ -5,6 +5,9 @@ module.exports = {
       colors: {
         'page-black': '#000000',
       },
+      FontFamily: {
+        garamond: ['var(--font-garamond)'],
+      },
     },
   },
   plugins: [],
